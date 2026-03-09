@@ -1,0 +1,19 @@
+#,BPM,Status,Time(s since boot)
+1,89,Normal,69
+2,88,Normal,68
+3,82,Normal,68
+4,71,Normal,67
+5,93,Normal,33
+6,94,Normal,30
+7,101,High,29
+8,99,Normal,28
+9,114,High,19
+10,116,High,10
+11,119,High,9
+12,111,High,8
+13,123,High,7
+14,131,High,7
+15,100,Normal,6
+16,80,Normal,6
+17,66,Normal,4
+18,36,Low,4
